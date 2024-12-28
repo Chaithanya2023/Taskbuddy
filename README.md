@@ -28,3 +28,5 @@ Name: TaskBuddy
 - Provide an option to restore or delete tasks from the history, giving users control over their task management.
 
 ---
+ui
+![taskbuddypic](https://github.com/user-attachments/assets/ebc58a0f-0f55-47b3-be11-4a0790d3712b)
