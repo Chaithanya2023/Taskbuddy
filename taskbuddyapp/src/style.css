@@ -1,0 +1,18 @@
+.App {  
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border: black;/* Deep navy for  amodern look*/
+    color: #e4e4e4; /*Light gray for text contrast*/
+}
+h1{
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #ffdf8b;   /*Brand color for the head */
+    text-shadow: 2px 2px 5px ,rgba(0,0,0,0.5);
+
+}
+#vishnu {
+    display: flex;
+    gap: 10px;
+}
